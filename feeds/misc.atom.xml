@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>七的title - misc</title><link href="blog.example.com/" rel="alternate"></link><link href="blog.example.com/feeds/misc.atom.xml" rel="self"></link><id>blog.example.com/</id><updated>2016-02-28T00:00:00+08:00</updated><entry><title>测试</title><link href="blog.example.com/test.html" rel="alternate"></link><published>2016-02-28T00:00:00+08:00</published><updated>2016-02-28T00:00:00+08:00</updated><author><name>seven</name></author><id>tag:None,2016-02-28:blog.example.com/test.html</id><content type="html">&lt;h1&gt;pelican&lt;/h1&gt;
+&lt;p&gt;Pelican Static Site Generator, Powered by Python：Pelican是python语言写的静态网站生成器。因为我一直打算用git pages做一个博客，现在已经学会用Hexo在git pages上做博客了。但是我还是一想：我一个pythoner，干嘛不用python写的静态网站生成器。应该是网上教程太少，那我今天就来搞一搞。顺便记录下来，整理出一个教程，希望一切顺利！
+&lt;img alt="mypic" src="./img/1.jpg"&gt;&lt;/p&gt;</content><category term="misc"></category><category term="测试"></category></entry></feed>
