@@ -1,1 +1,1 @@
-var tipuesearch = {"pages":[{"title":"无门之门","text":"无任何条件的条件下，当下的本然却超越的那个","tags":"Zen","url":"/one","loc":"/one"}]};
+var tipuesearch = {"pages":[{"title":"无门之门","text":"无任何条件的条件下，当下的，本然却超越的那个","tags":"Zen","url":"/one","loc":"/one"}]};
