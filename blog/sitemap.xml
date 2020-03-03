@@ -4,70 +4,70 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2020-03-03T21:17:49-00:00</lastmod>
+<loc>//sevend.github.io/blog/</loc>
+<lastmod>2020-03-03T23:53:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags</loc>
-<lastmod>2020-03-03T21:17:49-00:00</lastmod>
+<loc>//sevend.github.io/blog/tags</loc>
+<lastmod>2020-03-03T23:53:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories</loc>
-<lastmod>2020-03-03T21:17:49-00:00</lastmod>
+<loc>//sevend.github.io/blog/categories</loc>
+<lastmod>2020-03-03T23:53:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives</loc>
-<lastmod>2020-03-03T21:17:49-00:00</lastmod>
+<loc>//sevend.github.io/blog/archives</loc>
+<lastmod>2020-03-03T23:53:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/search</loc>
-<lastmod>2020-03-03T21:17:49-00:00</lastmod>
+<loc>//sevend.github.io/blog/search</loc>
+<lastmod>2020-03-03T23:53:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/404.html</loc>
-<lastmod>2020-03-03T21:17:49-00:00</lastmod>
+<loc>//sevend.github.io/blog/404.html</loc>
+<lastmod>2020-03-03T23:53:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/one</loc>
+<loc>//sevend.github.io/blog/one</loc>
 <lastmod>2020-03-03T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/zen.html</loc>
+<loc>//sevend.github.io/blog/category/zen.html</loc>
 <lastmod>2020-03-03T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/zen.html</loc>
+<loc>//sevend.github.io/blog/tag/zen.html</loc>
 <lastmod>2020-03-03T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/seven.html</loc>
+<loc>//sevend.github.io/blog/author/seven.html</loc>
 <lastmod>2020-03-03T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
