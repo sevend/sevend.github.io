@@ -5,43 +5,50 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>//sevend.github.io/blog/</loc>
-<lastmod>2020-03-13T20:51:18-00:00</lastmod>
+<lastmod>2020-03-16T22:38:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sevend.github.io/blog/tags</loc>
-<lastmod>2020-03-13T20:51:18-00:00</lastmod>
+<lastmod>2020-03-16T22:38:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sevend.github.io/blog/categories</loc>
-<lastmod>2020-03-13T20:51:18-00:00</lastmod>
+<lastmod>2020-03-16T22:38:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sevend.github.io/blog/archives</loc>
-<lastmod>2020-03-13T20:51:18-00:00</lastmod>
+<lastmod>2020-03-16T22:38:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sevend.github.io/blog/search</loc>
-<lastmod>2020-03-13T20:51:18-00:00</lastmod>
+<lastmod>2020-03-16T22:38:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>//sevend.github.io/blog/404.html</loc>
-<lastmod>2020-03-13T20:51:18-00:00</lastmod>
+<lastmod>2020-03-16T22:38:28-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>//sevend.github.io/blog/blog_beginning</loc>
+<lastmod>2020-03-16T22:33:21+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -60,8 +67,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>//sevend.github.io/blog/category/there.html</loc>
+<lastmod>2020-03-16T22:33:21+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>//sevend.github.io/blog/category/zen.html</loc>
 <lastmod>2020-03-04T11:35:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>//sevend.github.io/blog/tag/blog.html</loc>
+<lastmod>2020-03-16T22:33:21+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>//sevend.github.io/blog/author/seven.html</loc>
-<lastmod>2020-03-04T11:35:00+08:06</lastmod>
+<lastmod>2020-03-16T22:33:21+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
