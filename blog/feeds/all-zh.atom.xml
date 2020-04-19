@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Seven Qin</title><link href="//sevend.github.io/blog/" rel="alternate"></link><link href="//sevend.github.io/blog/feeds/all-zh.atom.xml" rel="self"></link><id>//sevend.github.io/blog/</id><updated>2020-04-19T21:36:03+08:00</updated><subtitle>Blog © 2020 By Seven</subtitle><entry><title>选择宿主操作系统</title><link href="//sevend.github.io/blog/choice_of_host_OS" rel="alternate"></link><published>2020-04-19T21:36:03+08:00</published><updated>2020-04-19T21:36:03+08:00</updated><author><name>Seven</name></author><id>tag:sevend.github.io,2020-04-19:/blog/choice_of_host_OS</id><summary type="html">&lt;p&gt;选择宿主操作系统&lt;/p&gt;</summary><content type="html">&lt;p&gt;拥抱开源，拥抱Linux，选择一个发行版本作为服务器的宿主操作系统；&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Seven Qin</title><link href="//sevend.github.io/blog/" rel="alternate"></link><link href="//sevend.github.io/blog/feeds/all-zh.atom.xml" rel="self"></link><id>//sevend.github.io/blog/</id><updated>2020-04-19T21:36:03+08:00</updated><subtitle>Blog © 2020 By Seven</subtitle><entry><title>选择宿主操作系统</title><link href="//sevend.github.io/blog/choice_of_host_OS" rel="alternate"></link><published>2020-04-19T21:36:03+08:00</published><updated>2020-04-19T21:36:03+08:00</updated><author><name>Seven</name></author><id>tag:sevend.github.io,2020-04-19:/blog/choice_of_host_OS</id><summary type="html">&lt;p&gt;选择宿主操作系统&lt;/p&gt;</summary><content type="html">&lt;p&gt;拥抱开源，拥抱Linux，选择一个Linux发行版本作为服务器的宿主操作系统；&lt;/p&gt;
 &lt;p&gt;近年来Linux社区蓬勃发展，版本众多，参看&amp;nbsp;distrowatch.com；&lt;/p&gt;
-&lt;p&gt;作为底层基础，稳定第一，从主流版本中选择顺理成章，
-个人之前接触比较多的是 CentOS 和&amp;nbsp;Ubuntu；&lt;/p&gt;
-&lt;p&gt;鉴于硬件使用的是个人台式机，那么偏向于企业级的CentOS就没有不要了，选择Ubuntu；&amp;nbsp;很多应用软件有关于Ubuntu发行版的配置安装文档，有利于快速推进进度与问题解决；&lt;/p&gt;
-&lt;p&gt;实际在安装的过程中，在分区的时候 Ubuntu Server版&amp;nbsp;，报bug，多次尝试无果，&lt;/p&gt;
-&lt;p&gt;鉴于构建的系统有迁移性的核心需求，之后应该会上Docker进行容器化，宿主OS是可以自由替换的，
-最终选择了 Ubuntu Desktop&amp;nbsp;LS版。&lt;/p&gt;</content><category term="System"></category><category term="system"></category><category term="linux"></category></entry><entry><title>构建系统</title><link href="//sevend.github.io/blog/build_a_system" rel="alternate"></link><published>2020-04-19T18:39:44+08:00</published><updated>2020-04-19T18:39:44+08:00</updated><author><name>Seven</name></author><id>tag:sevend.github.io,2020-04-19:/blog/build_a_system</id><summary type="html">&lt;p&gt;构建系统&lt;/p&gt;</summary><content type="html">&lt;p&gt;构建一个系统，要在此系统上进行应用开发，但同时进行生产部署，需稳定地提供服务；&lt;/p&gt;
+&lt;p&gt;作为底层基础，稳定第一，那么从主流版本中选择就顺理成章，
+个人接触比较多的是 CentOS 和 Ubuntu，&amp;nbsp;鉴于硬件平台使用的是个人台式机，那么偏向于企业级的CentOS就排除了。&lt;/p&gt;
+&lt;p&gt;特别的，目前很多应用软件有关于Ubuntu发行版的配置安装文档，这对于项目进度快速推进与问题解决十分有力；&lt;/p&gt;
+&lt;p&gt;实际安装过程中，在进行手动分区的时候， Ubuntu Server版总是报bug，多次尝试无果，
+尝试 Ubuntu Desktop&amp;nbsp;LS版，手工分区成功，系统安装成功。&lt;/p&gt;
+&lt;p&gt;鉴于构建的系统有迁移性的核心需求，而之后应该会上Docker进行容器化，&amp;nbsp;宿主OS就具备了自由替换的能力，若是有必要完全可以根据具体情况进行调整。&lt;/p&gt;</content><category term="System"></category><category term="system"></category><category term="linux"></category></entry><entry><title>构建系统</title><link href="//sevend.github.io/blog/build_a_system" rel="alternate"></link><published>2020-04-19T18:39:44+08:00</published><updated>2020-04-19T18:39:44+08:00</updated><author><name>Seven</name></author><id>tag:sevend.github.io,2020-04-19:/blog/build_a_system</id><summary type="html">&lt;p&gt;构建系统&lt;/p&gt;</summary><content type="html">&lt;p&gt;构建一个系统，要在此系统上进行应用开发，但同时进行生产部署，需稳定地提供服务；&lt;/p&gt;
 &lt;p&gt;需求：
 1. 可迁移性；
 2. 简单稳定；
